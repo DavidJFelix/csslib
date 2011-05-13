@@ -1,0 +1,2319 @@
+﻿.Oblique {
+    font-style: oblique !important;
+}
+.Italic {
+    font-style: italic !important;
+}
+.NormalStyle {
+    font-style: normal !important;
+}
+.Bold {
+    font-weight: bold !important;
+}
+.Bolder {
+    font-weight: bolder !important;
+}
+.Lighter {
+    font-weight: lighter !important;
+}
+.NormalWeight {
+    font-weight: normal !important;
+}
+.NormalVariant {
+    font-variant: normal !important;
+}
+.SmallCaps {
+    font-variant: small-caps !important;
+}
+.AirForceBlue {
+    color: #5D8AA8 !important;
+ }
+.AliceBlue  {
+    color: #F0F8FF !important;
+ }
+.AlizarinCrimson {
+    color: #E32636 !important;
+ }
+.Almond  {
+    color: #EFDECD !important;
+ }
+.Amaranth  {
+    color: #E52B50 !important;
+ }
+.Amber  {
+    color: #FFBF00 !important;
+ }
+.AmberSAE, .AmberECE  {
+    color: #FF7E00 !important;
+ }
+.AmericanRose {
+    color: #FF033E !important;
+ }
+.Amethyst  {
+    color: #9966CC !important;
+ }
+.AndroidGreen {
+    color: #A4C639 !important;
+ }
+.Anti-flashWhite  {
+    color: #F2F3F4 !important; 
+}
+.AntiqueBrass  {
+    color: #CD9575 !important; 
+} 
+.AntiqueFuchsia  {
+    color: #915C83 !important;
+}
+.AntiqueWhite  {
+    color: #FAEBD7 !important; 
+}
+.Ao  {
+    color: #008000 !important; 
+}
+.AppleGreen  {
+    color: #8DB600 !important; 
+}
+.Apricot  {
+    color: #FBCEB1 !important; 
+}
+.Aqua  {
+    color: #00FFFF !important;
+}
+.Aquamarine  {
+    color: #7FFFD0 !important;
+}
+.ArmyGreen  {
+    color: #4B5320 !important; 
+}
+.Arsenic {
+    color: #3B444B !important;
+}
+.ArylideYellow {
+    color: #E9D66B !important;
+}
+.AshGrey, .AshGray {
+    color: #B2BEB5 !important; 
+}
+.Asparagus {
+    color: #87A96B !important; 
+}
+.AtomicTangerine {
+    color: #FF9966 !important; 
+}
+.Auburn {
+    color: #6D351A !important; 
+}
+.Aureolin {
+    color: #FDEE00 !important; 
+}
+.AuroMetalSaurus {
+    color: #6E7F80 !important; 
+}
+.Awesome {
+    color: #FF2052 !important; 
+}
+.Azure {
+    color: #007FFF !important; 
+}
+.AzureMist .AzureWeb {
+    color: #F0FFFF
+}
+.BabyBlue {
+    color: #89CFF0 !important; 
+}
+.BabyBlueEyes {
+    color: #A1CAF1 !important; 
+}
+.BabyPink {
+    color: #F4C2C2 !important; 
+}
+.BallBlue {
+    color: #21ABCD !important; 
+}
+.BananaMania {
+    color: #FAE7B5 !important; 
+}
+.BananaYellow {
+    color: #FFE135 !important; 
+}
+.BattleshipGrey , .BattleshipGray {
+    color: #848482 !important; 
+}
+.Bazaar {
+    color: #98777B !important; 
+}
+.BeauBlue {
+    color: #BCD4E6 !important; 
+}
+.Beaver {
+    color: #9F8170 !important; 
+}
+.Beige {
+    color: #F5F5DC !important; 
+}
+.Bisque {
+    color: #FFE4C4 !important; 
+}
+.Bistre {
+    color: #3D2B1F !important; 
+}
+.Bittersweet {
+    color: #FE6F5E !important; 
+}
+.Black {
+    color: #000000 !important; 
+}
+.BlanchedAlmond {
+    color: #FFEBCD !important; 
+}
+.BleuDeFrance {
+    color: #318CE7 !important; 
+}
+.BlizzardBlue {
+    color: #ACE5EE !important; 
+}
+.Blond {
+    color: #FAF0BE !important; 
+}
+.Blue {
+    color: #0000FF !important; 
+}
+.BlueMunsell {
+    color: #0093AF !important; 
+}
+.BlueNCS {
+    color: #0087BD !important; 
+}
+.BluePigment {
+    color: #333399 !important; 
+}
+.BlueRYB {
+    color: #0247FE !important; 
+}
+.BlueBell {
+    color: #A2A2D0 !important; 
+}
+.BlueGray , .BlueGrey {
+    color: #6699CC !important; 
+}
+.Blue-green {
+    color: #00DDDD !important; 
+}
+.Blue-violet {
+    color: #8A2BE2 !important; 
+}
+.Blush {
+    color: #DE5D83 !important; 
+}
+.Bole {
+    color: #79443B !important; 
+}
+.BondiBlue {
+    color: #0095B6 !important; 
+}
+.BostonUniversityRed {
+    color: #CC0000 !important; 
+}
+.BrandeisBlue {
+    color: #0070FF !important; 
+}
+.Brass {
+    color: #B5A642 !important; 
+}
+.BrickRed {
+    color: #CB4154 !important; 
+}
+.BrightCerulean {
+    color: #1DACD6 !important; 
+}
+.BrightGreen {
+    color: #66FF00 !important; 
+}
+.BrightLavender {
+    color: #BF94E4 !important; 
+}
+.BrightMaroon {
+    color: #C32148 !important; 
+}
+.BrightPink {
+    color: #FF007F !important; 
+}
+.BrightPurquoise {
+    color: #08E8DE !important; 
+}
+.BrightUbe {
+    color: #D19FE8 !important; 
+}
+.BrilliantLavender {
+    color: #F4BBFF !important; 
+}
+.BrilliantRose {
+    color: #FF55A3 !important; 
+}
+.BrinkPink {
+    color: #FB607F !important; 
+}
+.BritishRacingGreen {
+    color: #004225 !important; 
+}
+.Bronze {
+    color: #CD7F32 !important; 
+}
+.Brown {
+    color: #964B00 !important; 
+}
+.BrownWeb{
+    color: #A52A2A !important; 
+}
+.BubbleGum {
+    color: #FFC1CC !important; 
+}
+.Bubbles {
+    color: #E7FEFF !important; 
+}
+.Buff {
+    color: #F0DC82 !important; 
+}
+.BulgarianRose {
+    color: #480607 !important; 
+}
+.Burgundy {
+    color: #800020 !important; 
+}
+.Burlywood {
+    color: #DEB887 !important; 
+}
+.BurntOrange {
+    color: #CC5500 !important; 
+}
+.BurntSienna {
+    color: #E97451 !important; 
+}
+.BurntUmber {
+    color: #8A3324 !important; 
+}
+.Byzantine {
+    color: #BD33A4 !important; 
+}
+.Byzantium {
+    color: #702963 !important;
+}
+.Cadet {
+    color: #536872 !important; 
+}
+.CadetBlue {
+    color: #5F9EA0 !important; 
+}
+.CadetGrey , .CadetGray {
+    color: #91A3B0 !important; 
+}
+.CadmiumGreen {
+    color: #006B3C !important; 
+}
+.CadmiumOrange {
+    color: #ED872D !important; 
+}
+.CadmiumRed {
+    color: #E30022 !important; 
+}
+.CadmiumYellow {
+    color: #FFF600 !important; 
+}
+.CalPolyPomonaGreen {
+    color: #1E4D2B !important; 
+}
+.CambridgeBlue {
+    color: #A3C1AD !important; 
+}
+.Camel {
+    color: #C19A6B !important; 
+}
+.CamouflageGreen {
+    color: #78866B !important; 
+}
+.CanaryYellow {
+    color: #FFEF00 !important; 
+}
+.CandyAppleRed {
+    color: #FF0800 !important; 
+}
+.CandyPink {
+    color: #E4717A !important; 
+}
+.Capri {
+    color: #00BFFF !important; 
+}
+.CaputMortuum {
+    color: #592720 !important; 
+}
+.Cardinal {
+    color: #C41E3A !important; 
+}
+.CaribbeanGreen {
+    color: #00CC99 !important; 
+}
+.Carmine {
+    color: #960018 !important; 
+}
+.CarminePink {
+    color: #EB4C42 !important; 
+}
+.CarmineRed {
+    color: #FF0038 !important; 
+}
+.CarnationPink {
+    color: #FFA6C9 !important; 
+}
+.Carnelian {
+    color: #B31B1B !important; 
+}
+.CarolinaBlue {
+    color: #99BADD !important; 
+}
+.CarrotOrange {
+    color: #ED9121 !important; 
+}
+.Ceil {
+    color: #92A1CF !important; 
+}
+.Celadon {
+    color: #ACE1AF !important; 
+}
+.CelestialBlue {
+    color: #4997D0 !important; 
+}
+.Cerise {
+    color: #DE3163 !important; 
+}
+.CerisePink {
+    color: #EC3B83 !important; 
+}
+.Cerulean {
+    color: #007BA7 !important; 
+}
+.CeruleanBlue {
+    color: #2A52BE !important; 
+}
+.Chamoisee {
+    color: #A0785A !important; 
+}
+.Champagne {
+    color: #F7E7CE !important; 
+}
+.Charcoal {
+    color: #36454F !important; 
+}
+.Chartreuse {
+    color: #DFFF00 !important; 
+}
+.ChartreuseWeb {
+    color: #7FFF00 !important; 
+}
+.CherryBlossomPink {
+    color: #FFB7C5 !important; 
+}
+.Chestnut {
+    color: #CD5C5C !important; 
+}
+.Chocolate {
+    color: #7B3F00 !important; 
+}
+.ChocolateWeb {
+    color: #D2691E !important; 
+}
+.ChromeYellow {
+    color: #FFA700 !important; 
+}
+.Cinereous {
+    color: #98817B !important; 
+}
+.Cinnabar {
+    color: #E34234 !important; 
+}
+.Cinnamon {
+    color: #D2691E !important; 
+}
+.Citrine {
+    color: #E4D00A !important; 
+}
+.ClassicRose {
+    color: #FBCCE7 !important; 
+}
+.Cobalt {
+    color: #0047AB !important; 
+}
+.CocoaBrown {
+    color: #D2691E !important; 
+}
+.Coffee {
+    color: #C86428 !important; 
+}
+.ColumbiaBlue {
+    color: #9BDDFF !important; 
+}
+.CoolBlack {
+    color: #002E63 !important; 
+}
+.CoolGrey , .CoolGray {
+    color: #8C92AC !important; 
+}
+.Copper {
+    color: #B87333 !important; 
+}
+.CopperRose {
+    color: #996666 !important; 
+}
+.Coquelicot {
+    color: #FF3800 !important; 
+}
+.Coral {
+    color: #FF7F50 !important; 
+}
+.CoralPink {
+    color: #F88379 !important; 
+}
+.CoralRed {
+    color: #FF4040 !important; 
+}
+.Cordovan {
+    color: #893F45 !important; 
+}
+.Corn {
+    color: #FBEC5D !important; 
+}
+.CornellRed {
+    color: #B31B1B !important; 
+}
+.CornflowerBlue {
+    color: #6495ED !important; 
+}
+.Cornsilk {
+    color: #FFF8DC !important; 
+}
+.CosmicLatte {
+    color: #FFF8E7 !important; 
+}
+.CottonCandy {
+    color: #FFBCD9 !important; 
+}
+.Cream {
+    color: #FFFDD0 !important; 
+}
+.Crimson {
+    color: #DC143C !important; 
+}
+.CrimsonGlory {
+    color: #BE0032 !important; 
+}
+.Cyan {
+    color: #00FFFF !important; 
+}
+.CyanProcess{
+    color: #00B7EB !important;
+}
+.Daffodil {
+    color: #FFFF31 !important; 
+}
+.Dandelion {
+    color: #F0E130 !important; 
+}
+.DarkBlue {
+    color: #00008B !important; 
+}
+.DarkBrown {
+    color: #654321 !important; 
+}
+.DarkByzantium {
+    color: #5D3954 !important; 
+}
+.DarkCandyAppleRed {
+    color: #A40000 !important; 
+}
+.DarkCerulean {
+    color: #08457E !important; 
+}
+.DarkChampagne {
+    color: #C2B280 !important; 
+}
+.DarkChestnut {
+    color: #986960 !important; 
+}
+.DarkCoral {
+    color: #CD5B45 !important; 
+}
+.DarkCyan {
+    color: #008B8B !important; 
+}
+.DarkElectricBlue {
+    color: #536878 !important; 
+}
+.DarkGoldenrod {
+    color: #B8860B !important; 
+}
+.DarkGray, .DarkGrey {
+    color: #A9A9A9 !important; 
+}
+.DarkGreen {
+    color: #013220 !important; 
+}
+.DarkJungleGreen {
+    color: #1A2421 !important; 
+}
+.DarkKhaki {
+    color: #BDB76B !important; 
+}
+.DarkLava {
+    color: #483C32 !important; 
+}
+.DarkLavender {
+    color: #734F96 !important; 
+}
+.DarkMagenta {
+    color: #8B008B !important; 
+}
+.DarkMidnightBlue {
+    color: #003366 !important; 
+}
+.DarkOliveGreen {
+    color: #556B2F !important; 
+}
+.DarkOrange {
+    color: #FF8C00 !important; 
+}
+.DarkOrchid {
+    color: #9932CC !important; 
+}
+.DarkPastelBlue {
+    color: #779ECB !important; 
+}
+.DarkPastelGreen {
+    color: #03C03C !important; 
+}
+.DarkPastelPurple {
+    color: #966FD6 !important; 
+}
+.DarkPastelRed {
+    color: #C23B22 !important; 
+}
+.DarkPink {
+    color: #E75480 !important; 
+}
+.DarkRaspberry {
+    color: #872657 !important; 
+}
+.DarkRed {
+    color: #8B0000 !important; 
+}
+.DarkSalmon {
+    color: #E9967A !important; 
+}
+.DarkScarlet {
+    color: #560319 !important; 
+}
+.DarkSeaGreen {
+    color: #8FBC8F !important; 
+}
+.DarkSienna {
+    color: #3C1414 !important; 
+}
+.DarkSlateBlue {
+    color: #483D8B !important; 
+}
+.DarkSlateGray {
+    color: #2F4F4F !important; 
+}
+.DarkSpringGreen {
+    color: #177245 !important; 
+}
+.DarkTan {
+    color: #918151 !important; 
+}
+.DarkTangerine {
+    color: #FFA812 !important; 
+}
+.DarkTaupe {
+    color: #483C32 !important; 
+}
+.DarkTerraCotta {
+    color: #CC4E5C !important; 
+}
+.DarkTurquoise {
+    color: #00CED1 !important; 
+}
+.DarkViolet {
+    color: #9400D3 !important; 
+}
+.DartmouthGreen {
+    color: #00693E !important; 
+}
+.DavysGrey , .DavysGray {
+    color: #555555 !important; 
+}
+.DebianRed {
+    color: #D70A53 !important; 
+}
+.DeepCarmine {
+    color: #A9203E !important; 
+}
+.DeepCarminePink {
+    color: #EF3038 !important; 
+}
+.DeepCarrotOrange {
+    color: #E9692C !important; 
+}
+.DeepCerise {
+    color: #DA3287 !important; 
+}
+.DeepChampagne {
+    color: #FAD6A5 !important; 
+}
+.DeepChestnut {
+    color: #B94E48 !important; 
+}
+.DeepFuchsia {
+    color: #C154C1 !important; 
+}
+.DeepJungleGreen {
+    color: #004B49 !important; 
+}
+.DeepLilac {
+    color: #9955BB !important; 
+}
+.DeepMagenta {
+    color: #CC00CC !important; 
+}
+.DeepPeach {
+    color: #FFCBA4 !important; 
+}
+.DeepPink {
+    color: #FF1493 !important; 
+}
+.DeepSaffron {
+    color: #FF9933 !important; 
+}
+.DeepSkyBlue {
+    color: #00BFFF !important; 
+}
+.Denim {
+    color: #1560BD !important; 
+}
+.Desert {
+    color: #C19A6B !important; 
+}
+.DesertSand {
+    color: #EDC9AF !important; 
+}
+.DimGray, .DimGrey {
+    color: #696969 !important; 
+}
+.DodgerBlue {
+    color: #1E90FF !important; 
+}
+.DogwoodRose {
+    color: #D71868 !important; 
+}
+.DollarBill {
+    color: #85BB65 !important; 
+}
+.Drab {
+    color: #967117 !important; 
+}
+.DukeBlue {
+    color: #00009C !important;
+}
+.EarthYellow {
+    color: #E1A95F !important; 
+}
+.Ecru {
+    color: #C2B280 !important; 
+}
+.Eggplant {
+    color: #614051 !important; 
+}
+.Eggshell {
+    color: #F0EAD6 !important; 
+}
+.EgyptianBlue {
+    color: #1034A6 !important; 
+}
+.ElectricBlue {
+    color: #7DF9FF !important; 
+}
+.ElectricCrimson {
+    color: #FF003F !important; 
+}
+.ElectricCyan {
+    color: #00FFFF !important; 
+}
+.ElectricGreen {
+    color: #00FF00 !important; 
+}
+.ElectricIndigo {
+    color: #6F00FF !important; 
+}
+.ElectricLavender {
+    color: #F4BBFF !important; 
+}
+.ElectricLime {
+    color: #CCFF00 !important; 
+}
+.ElectricPurple {
+    color: #BF00FF !important; 
+}
+.ElectricUltramarine {
+    color: #3F00FF !important; 
+}
+.ElectricViolet {
+    color: #8F00FF !important; 
+}
+.ElectricYellow {
+    color: #FFFF00 !important; 
+}
+.Emerald {
+    color: #50C878 !important; 
+}
+.EtonBlue {
+    color: #96C8A2 !important;
+}
+.Fallow {
+    color: #C19A6B !important; 
+}
+.FaluRed {
+    color: #801818 !important; 
+}
+.Fandango {
+    color: #B53389 !important; 
+}
+.FashionFuchsia {
+    color: #F400A1 !important; 
+}
+.Fawn {
+    color: #E5AA70 !important; 
+}
+.Feldgrau {
+    color: #4D5D53 !important; 
+}
+.FernGreen {
+    color: #4F7942 !important; 
+}
+.FerrariRed {
+    color: #FF2800 !important; 
+}
+.FieldDrab {
+    color: #6C541E !important; 
+}
+.Firebrick {
+    color: #B22222 !important; 
+}
+.FireEngineRed {
+    color: #CE2029 !important; 
+}
+.Flame {
+    color: #E25822 !important; 
+}
+.FlamingoPink {
+    color: #FC8EAC !important; 
+}
+.Flavescent {
+    color: #F7E98E !important; 
+}
+.Flax {
+    color: #EEDC82 !important; 
+}
+.FloralWhite {
+    color: #FFFAF0 !important; 
+}
+.FluorescentOrange {
+    color: #FFBF00 !important; 
+}
+.FluorescentPink {
+    color: #FF1493 !important; 
+}
+.FluorescentYellow {
+    color: #CCFF00 !important; 
+}
+.Folly {
+    color: #FF004F !important; 
+}
+.ForestGreen(traditional) {
+    color: #014421 !important; 
+}
+.ForestGreen(web) {
+    color: #228B22 !important; 
+}
+.FrenchBeige {
+    color: #A67B5B !important; 
+}
+.FrenchBlue {
+    color: #0072BB !important; 
+}
+.FrenchLilac {
+    color: #86608E !important; 
+}
+.FrenchRose {
+    color: #F64A8A !important; 
+}
+.Fuchsia {
+    color: #FF00FF !important; 
+}
+.FuchsiaPink {
+    color: #FF77FF !important; 
+}
+.Fulvous {
+    color: #E48400 !important; 
+}
+.FuzzyWuzzy {
+    color: #CC6666 !important;
+}
+.Gainsboro {
+    color: #DCDCDC !important; 
+}
+.Gamboge {
+    color: #E49B0F !important; 
+}
+.GhostWhite {
+    color: #F8F8FF !important; 
+}
+.Ginger {
+    color: #B06500 !important; 
+}
+.Glaucous {
+    color: #6082B6 !important; 
+}
+.Gold {
+    color: #D4AF37 !important; 
+}
+.GoldWeb, .Golden {
+    color: #FFD700 !important; 
+}
+.GoldenBrown {
+    color: #996515 !important; 
+}
+.GoldenPoppy {
+    color: #FCC200 !important; 
+}
+.GoldenYellow {
+    color: #FFDF00 !important; 
+}
+.Goldenrod {
+    color: #DAA520 !important; 
+}
+.GrannySmithApple {
+    color: #A8E4A0 !important; 
+}
+.Gray, .Grey {
+    color: #808080 !important; 
+}
+.GrayWeb, .GreyWeb {
+    color: #7F7F7F !important; 
+}
+.GrayX11 , .GreyX11 {
+    color: #BEBEBE !important; 
+}
+.Gray-asparagus, .Grey-asparagus {
+    color: #465945 !important; 
+}
+.Green{
+    color: #00FF00 !important; 
+}
+.GreenWeb {
+    color: #008000 !important; 
+}
+.GreenMunsell {
+    color: #00A877 !important; 
+}
+.GreenNCS {
+    color: #009F6B !important; 
+}
+.GreenPigment {
+    color: #00A550 !important; 
+}
+.GreenRYB {
+    color: #66B032 !important; 
+}
+.Green-yellow {
+    color: #ADFF2F !important; 
+}
+.Grullo {
+    color: #A99A86 !important; 
+}
+.GuppieGreen {
+    color: #00FF7F !important;
+}
+.HalayaUbe {
+    color: #663854 !important; 
+}
+.HanBlue {
+    color: #446CCF !important; 
+}
+.HanPurple {
+    color: #5218FA !important; 
+}
+.HansaYellow {
+    color: #E9D66B !important; 
+}
+.Harlequin {
+    color: #3FFF00 !important; 
+}
+.HarvardCrimson {
+    color: #C90016 !important; 
+}
+.HarvestGold {
+    color: #DA9100 !important; 
+}
+.HeartGold {
+    color: #808000 !important; 
+}
+.Heliotrope {
+    color: #DF73FF !important; 
+}
+.HollywoodCerise {
+    color: #F400A1 !important; 
+}
+.Honeydew {
+    color: #F0FFF0 !important; 
+}
+.HookersGreen {
+    color: #007000 !important; 
+}
+.HotMagenta {
+    color: #FF1DCE !important; 
+}
+.HotPink {
+    color: #FF69B4 !important; 
+}
+.HunterGreen {
+    color: #355E3B !important;
+}
+.Iceberg {
+    color: #71A6D2 !important; 
+}
+.Icterine {
+    color: #FCF75E !important; 
+}
+.Inchworm {
+    color: #B2EC5D !important; 
+}
+.IndiaGreen {
+    color: #138808 !important; 
+}
+.IndianRed {
+    color: #CD5C5C !important; 
+}
+.IndianYellow {
+    color: #E3A857 !important; 
+}
+.Indigo {
+    color: #00416A !important; 
+}
+.IndigoWeb {
+    color: #4B0082 !important; 
+}
+.InternationalKleinBlue {
+    color: #002FA7 !important; 
+}
+.InternationalOrange {
+    color: #FF4F00 !important; 
+}
+.Iris {
+    color: #5A4FCF !important; 
+}
+.Isabelline {
+    color: #F4F0EC !important; 
+}
+.IslamicGreen {
+    color: #009000 !important; 
+}
+.Ivory {
+    color: #FFFFF0 !important;
+}
+.Jade {
+    color: #00A86B !important; 
+}
+.Jasper {
+    color: #D73B3E !important; 
+}
+.Jasmine {
+    color: #F8DE7E !important; 
+}
+.JazzberryJam {
+    color: #A50B5E !important; 
+}
+.Jonquil {
+    color: #FADA5E !important; 
+}
+.JuneBud {
+    color: #BDDA57 !important; 
+}
+.JungleGreen {
+    color: #29AB87 !important;
+}
+.KellyGreen {
+    color: #4CBB17 !important; 
+}
+.Khaki {
+    color: #C3B091 !important; 
+}
+.KhakiX11, .LightKhaki {
+    color: #F0E68C !important; 
+}
+.KUCrimson {
+    color: #E8000D !important;
+}
+.LaSalleGreen {
+    color: #087830 !important; 
+}
+.LanguidLavender {
+    color: #D6CADD !important; 
+}
+.LapisLazuli {
+    color: #26619C !important; 
+}
+.LaserLemon {
+    color: #FEFE22 !important; 
+}
+.Lava {
+    color: #CF1020 !important; 
+}
+.Lavender {
+    color: #B57EDC !important; 
+}
+.LavenderWeb {
+    color: #E6E6FA !important; 
+}
+.LavenderBlue {
+    color: #CCCCFF !important; 
+}
+.LavenderBlush {
+    color: #FFF0F5 !important; 
+}
+.LavenderGray, .LavenderGrey {
+    color: #C4C3D0 !important; 
+}
+.LavenderIndigo {
+    color: #9457EB !important; 
+}
+.LavenderMagenta {
+    color: #EE82EE !important; 
+}
+.LavenderMist {
+    color: #E6E6FA !important; 
+}
+.LavenderPink {
+    color: #FBAED2 !important; 
+}
+.LavenderPurple {
+    color: #967BB6 !important; 
+}
+.LavenderRose {
+    color: #FBA0E3 !important; 
+}
+.LawnGreen {
+    color: #7CFC00 !important; 
+}
+.Lemon {
+    color: #FFF700 !important; 
+}
+.LemonChiffon {
+    color: #FFFACD !important; 
+}
+.LightApricot {
+    color: #FDD5B1 !important; 
+}
+.LightBlue {
+    color: #ADD8E6 !important; 
+}
+.LightBrown {
+    color: #B5651D !important; 
+}
+.LightCarminePink {
+    color: #E66771 !important; 
+}
+.LightCoral {
+    color: #F08080 !important; 
+}
+.LightCornflowerBlue {
+    color: #93CCEA !important; 
+}
+.LightCrimson {
+    color: #F56991 !important; 
+}
+.LightCyan {
+    color: #E0FFFF !important; 
+}
+.LightFuchsiaPink {
+    color: #F984EF !important; 
+}
+.LightGoldenrodYellow {
+    color: #FAFAD2 !important; 
+}
+.LightGray , .LightGrey {
+    color: #D3D3D3 !important; 
+}
+.LightGreen {
+    color: #90EE90 !important; 
+}
+.LightKhaki {
+    color: #F0E68C !important; 
+}
+.LightMauve {
+    color: #DCD0FF !important; 
+}
+.LightPastelPurple {
+    color: #B19CD9 !important; 
+}
+.LightPink {
+    color: #FFB6C1 !important; 
+}
+.LightSalmon {
+    color: #FFA07A !important; 
+}
+.LightSalmonPink {
+    color: #FF9999 !important; 
+}
+.LightSeaGreen {
+    color: #20B2AA !important; 
+}
+.LightSkyBlue {
+    color: #87CEEB !important; 
+}
+.LightSlateGray , .LightSlateGrey {
+    color: #778899 !important; 
+}
+.LightTaupe {
+    color: #B38B6D !important; 
+}
+.LightThulianPink {
+    color: #E68FAC !important; 
+}
+.LightYellow {
+    color: #FFFFED !important; 
+}
+.Lilac {
+    color: #C8A2C8 !important; 
+}
+.Lime {
+    color: #BFFF00 !important; 
+}
+.LimeWeb, .GreenX11 {
+    color: #00FF00 !important; 
+}
+.LimeGreen {
+    color: #32CD32 !important; 
+}
+.LincolnGreen {
+    color: #195905 !important; 
+}
+.Linen {
+    color: #FAF0E6 !important; 
+}
+.Liver {
+    color: #534B4F !important; 
+}
+.Lust {
+    color: #E62020 !important;
+}
+.MacaroniAndCheese {
+    color: #FFBD88 !important; 
+}
+.Magenta {
+    color: #FF00FF !important; 
+}
+.MagentaDye {
+    color: #CA1F7B !important; 
+}
+.MagentaProcess {
+    color: #FF0090 !important; 
+}
+.MagicMint {
+    color: #AAF0D1 !important; 
+}
+.Magnolia {
+    color: #F8F4FF !important; 
+}
+.Mahogany {
+    color: #C04000 !important; 
+}
+.Maize {
+    color: #FBEC5D !important; 
+}
+.MajorelleBlue {
+    color: #6050DC !important; 
+}
+.Malachite {
+    color: #0BDA51 !important; 
+}
+.Manatee {
+    color: #979AAA !important; 
+}
+.MangoTango {
+    color: #FF8243 !important; 
+}
+.Maroon {
+    color: #800000 !important; 
+}
+.MaroonX11 {
+    color: #B03060 !important; 
+}
+.Mauve {
+    color: #E0B0FF !important; 
+}
+.MauveTaupe {
+    color: #915F6D !important; 
+}
+.Mauvelous {
+    color: #EF98AA !important; 
+}
+.MayaBlue {
+    color: #73C2FB !important; 
+}
+.MeatBrown {
+    color: #E5B73B !important; 
+}
+.MediumAquamarine {
+    color: #66DDAA !important; 
+}
+.MediumBlue {
+    color: #0000CD !important; 
+}
+.MediumCandyAppleRed {
+    color: #E2062C !important; 
+}
+.MediumCarmine {
+    color: #AF4035 !important; 
+}
+.MediumChampagne {
+    color: #F3E5AB !important; 
+}
+.MediumElectricBlue {
+    color: #035096 !important; 
+}
+.MediumJungleGreen {
+    color: #1C352D !important; 
+}
+.MediumLavenderMagenta {
+    color: #DDA0DD !important; 
+}
+.MediumOrchid {
+    color: #BA55D3 !important; 
+}
+.MediumPersianBlue {
+    color: #0067A5 !important; 
+}
+.MediumPurple {
+    color: #9370DB !important; 
+}
+.MediumRed-violet {
+    color: #BB3385 !important; 
+}
+.MediumSeaGreen {
+    color: #3CB371 !important; 
+}
+.MediumSlateBlue {
+    color: #7B68EE !important; 
+}
+.MediumSpringBud {
+    color: #C9DC87 !important; 
+}
+.MediumSpringGreen {
+    color: #00FA9A !important; 
+}
+.MediumTaupe {
+    color: #674C47 !important; 
+}
+.MediumTealBlue {
+    color: #0054B4 !important; 
+}
+.MediumTurquoise {
+    color: #48D1CC !important; 
+}
+.MediumViolet-red {
+    color: #C71585 !important; 
+}
+.Melon {
+    color: #FDBCB4 !important; 
+}
+.MidnightBlue {
+    color: #191970 !important; 
+}
+.MidnightGreen, .EagleGreen {
+    color: #004953 !important; 
+}
+.MikadoYellow {
+    color: #FFC40C !important; 
+}
+.Mint {
+    color: #3EB489 !important; 
+}
+.MintCream {
+    color: #F5FFFA !important; 
+}
+.MintGreen {
+    color: #98FF98 !important; 
+}
+.MistyRose {
+    color: #FFE4E1 !important; 
+}
+.Moccasin {
+    color: #FAEBD7 !important; 
+}
+.ModeBeige {
+    color: #967117 !important; 
+}
+.MoonstoneBlue {
+    color: #73A9C2 !important; 
+}
+.MordantRed {
+    color: #AE0C00 !important; 
+}
+.MossGreen {
+    color: #ADDFAD !important; 
+}
+.MountainMeadow {
+    color: #30BA8F !important; 
+}
+.MountbattenPink {
+    color: #997A8D !important; 
+}
+.Mulberry {
+    color: #C54B8C !important; 
+}
+.Mustard {
+    color: #FFDB58 !important; 
+}
+.Myrtle {
+    color: #21421E !important; 
+}
+.MSUGreen {
+    color: #18453B !important;
+}
+.NadeshikoPink {
+    color: #F6ADC6 !important; 
+}
+.NapierGreen {
+    color: #2A8000 !important; 
+}
+.NaplesYellow {
+    color: #FADA5E !important; 
+}
+.NavajoWhite {
+    color: #FFDEAD !important; 
+}
+.NavyBlue {
+    color: #000080 !important; 
+}
+.NeonCarrot {
+    color: #FFA343 !important; 
+}
+.NeonFuchsia {
+    color: #FE59C2 !important; 
+}
+.NeonGreen {
+    color: #39FF14 !important; 
+}
+.Non-photoBlue {
+    color: #A4DDED !important;
+}
+.OceanBoatBlue {
+    color: #0077BE !important; 
+}
+.Ochre {
+    color: #CC7722 !important; 
+}
+.OfficeGreen {
+    color: #008000 !important; 
+}
+.OldGold {
+    color: #CFB53B !important; 
+}
+.OldLace {
+    color: #FDF5E6 !important; 
+}
+.OldLavender {
+    color: #796878 !important; 
+}
+.OldMauve {
+    color: #673147 !important; 
+}
+.OldRose {
+    color: #C08081 !important; 
+}
+.Olive {
+    color: #808000 !important; 
+}
+.OliveDrabWeb{
+    color: #6B8E23 !important; 
+}
+.OliveDrab{
+    color: #3C341F !important; 
+}
+.Olivine {
+    color: #9AB973 !important; 
+}
+.Onyx {
+    color: #0F0F0F !important; 
+}
+.OperaMauve {
+    color: #B784A7 !important; 
+}
+.Orange {
+    color: #FF7F00 !important; 
+}
+.OrangeRYB {
+    color: #FB9902 !important; 
+}
+.OrangeWeb {
+    color: #FFA500 !important; 
+}
+.OrangePeel {
+    color: #FF9F00 !important; 
+}
+.Orange-red {
+    color: #FF4500 !important; 
+}
+.Orchid {
+    color: #DA70D6 !important; 
+}
+.OtterBrown {
+    color: #654321 !important; 
+}
+.OuterSpace {
+    color: #414A4C !important; 
+}
+.OutrageousOrange {
+    color: #FF6E4A !important; 
+}
+.OxfordBlue {
+    color: #002147 !important; 
+}
+.OUCrimsonRed {
+    color: #990000 !important;
+}
+.PakistanGreen {
+    color: #006600 !important; 
+}
+.PalatinateBlue {
+    color: #273BE2 !important; 
+}
+.PalatinatePurple {
+    color: #682860 !important; 
+}
+.PaleAqua {
+    color: #BCD4E6 !important; 
+}
+.PaleBlue {
+    color: #AFEEEE !important; 
+}
+.PaleBrown {
+    color: #987654 !important; 
+}
+.PaleCarmine {
+    color: #AF4035 !important; 
+}
+.PaleCerulean {
+    color: #9BC4E2 !important; 
+}
+.PaleChestnut {
+    color: #DDADAF !important; 
+}
+.PaleCopper {
+    color: #DA8A67 !important; 
+}
+.PaleCornflowerBlue {
+    color: #ABCDEF !important; 
+}
+.PaleGold {
+    color: #E6BE8A !important; 
+}
+.PaleGoldenrod {
+    color: #EEE8AA !important; 
+}
+.PaleGreen {
+    color: #98FB98 !important; 
+}
+.PaleMagenta {
+    color: #F984E5 !important; 
+}
+.PalePink {
+    color: #FADADD !important; 
+}
+.PalePlum {
+    color: #DDA0DD !important; 
+}
+.PaleRed-violet {
+    color: #DB7093 !important; 
+}
+.PaleRobinEggBlue {
+    color: #96DED1 !important; 
+}
+.PaleSilver {
+    color: #C9C0BB !important; 
+}
+.PaleSpringBud {
+    color: #ECEBBD !important; 
+}
+.PaleTaupe {
+    color: #BC987E !important; 
+}
+.PaleViolet-red {
+    color: #DB7093 !important; 
+}
+.PansyPurple {
+    color: #78184A !important; 
+}
+.PapayaWhip {
+    color: #FFEFD5 !important; 
+}
+.ParisGreen {
+    color: #50C878 !important; 
+}
+.PastelBlue {
+    color: #AEC6CF !important; 
+}
+.PastelBrown {
+    color: #836953 !important; 
+}
+.PastelGray , .PastelGrey {
+    color: #CFCFC4 !important; 
+}
+.PastelGreen {
+    color: #77DD77 !important; 
+}
+.PastelMagenta {
+    color: #F49AC2 !important; 
+}
+.PastelOrange {
+    color: #FFB347 !important; 
+}
+.PastelPink {
+    color: #FFD1DC !important; 
+}
+.PastelPurple {
+    color: #B39EB5 !important; 
+}
+.PastelRed {
+    color: #FF6961 !important; 
+}
+.PastelViolet {
+    color: #CB99C9 !important; 
+}
+.PastelYellow {
+    color: #FDFD96 !important; 
+}
+.Patriarch {
+    color: #800080 !important; 
+}
+.PaynesGrey, .PaynesGray {
+    color: #40404F !important; 
+}
+.Peach {
+    color: #FFE5B4 !important; 
+}
+.Peach-orange {
+    color: #FFCC99 !important; 
+}
+.PeachPuff {
+    color: #FFDAB9 !important; 
+}
+.Peach-yellow {
+    color: #FADFAD !important; 
+}
+.Pear {
+    color: #D1E231 !important; 
+}
+.Pearl {
+    color: #F0EAD6 !important; 
+}
+.PearlAqua {
+    color: #88D8C0 !important; 
+}
+.Peridot {
+    color: #E6E200 !important; 
+}
+.Periwinkle {
+    color: #CCCCFF !important; 
+}
+.PersianBlue {
+    color: #1C39BB !important; 
+}
+.PersianGreen {
+    color: #00A693 !important; 
+}
+.PersianIndigo {
+    color: #32127A !important; 
+}
+.PersianOrange {
+    color: #D99058 !important; 
+}
+.PersianPink {
+    color: #F77FBE !important; 
+}
+.PersianPlum {
+    color: #701C1C !important; 
+}
+.PersianRed {
+    color: #CC3333 !important; 
+}
+.PersianRose {
+    color: #FE28A2 !important; 
+}
+.Persimmon {
+    color: #EC5800 !important; 
+}
+.Phlox {
+    color: #DF00FF !important; 
+}
+.PhthaloBlue {
+    color: #000F89 !important; 
+}
+.PhthaloGreen {
+    color: #123524 !important; 
+}
+.PiggyPink {
+    color: #FDDDE6 !important; 
+}
+.PineGreen {
+    color: #01796F !important; 
+}
+.Pink {
+    color: #FFC0CB !important; 
+}
+.Pink-orange {
+    color: #FF9966 !important; 
+}
+.PinkPearl {
+    color: #E7ACCF !important; 
+}
+.PinkSherbet {
+    color: #F78FA7 !important; 
+}
+.Pistachio {
+    color: #93C572 !important; 
+}
+.Platinum {
+    color: #E5E4E2 !important; 
+}
+.Plum {
+    color: #8E4585 !important; 
+}
+.PlumWeb {
+    color: #DDA0DD !important; 
+}
+.PortlandOrange {
+    color: #FF5A36 !important; 
+}
+.PowderBlue {
+    color: #B0E0E6 !important; 
+}
+.PrincetonOrange {
+    color: #FF8F00 !important; 
+}
+.Prune {
+    color: #701C1C !important; 
+}
+.PrussianBlue {
+    color: #003153 !important; 
+}
+.PsychedelicPurple {
+    color: #DF00FF !important; 
+}
+.Puce {
+    color: #CC8899 !important; 
+}
+.Pumpkin {
+    color: #FF7518 !important; 
+}
+.Purple {
+    color: #800080 !important; 
+}
+.PurpleMunsell {
+    color: #9F00C5 !important; 
+}
+.PurpleX11 {
+    color: #A020F0 !important; 
+}
+.PurpleHeart {
+    color: #69359C !important; 
+}
+.PurpleMountainMajesty {
+    color: #9678B6 !important; 
+}
+.PurplePizzazz {
+    color: #FE4EDA !important; 
+}
+.PurpleTaupe {
+    color: #50404D !important;
+}
+.RadicalRed {
+    color: #FF355E !important; 
+}
+.Raspberry {
+    color: #E30B5D !important; 
+}
+.RaspberryGlace {
+    color: #915F6D !important; 
+}
+.RaspberryPink {
+    color: #E25098 !important; 
+}
+.RaspberryRose {
+    color: #B3446C !important; 
+}
+.RawUmber {
+    color: #826644 !important; 
+}
+.RazzleDazzleRose {
+    color: #FF33CC !important; 
+}
+.Razzmatazz {
+    color: #E3256B !important; 
+}
+.Red {
+    color: #FF0000 !important; 
+}
+.RedMunsell {
+    color: #F2003C !important; 
+}
+.RedNCS {
+    color: #C40233 !important; 
+}
+.RedPigment {
+    color: #ED1C24 !important; 
+}
+.RedRYB {
+    color: #FE2712 !important; 
+}
+.Red-brown {
+    color: #A52A2A !important; 
+}
+.Red-violet {
+    color: #C71585 !important; 
+}
+.Redwood {
+    color: #AB4E52 !important; 
+}
+.Regalia {
+    color: #522D80 !important; 
+}
+.RichBlack {
+    color: #004040 !important; 
+}
+.RichBrilliantLavender {
+    color: #F1A7FE !important; 
+}
+.RichCarmine {
+    color: #D70040 !important; 
+}
+.RichElectricBlue {
+    color: #0892D0 !important; 
+}
+.RichLavender {
+    color: #A76BCF !important; 
+}
+.RichLilac {
+    color: #B666D2 !important; 
+}
+.RichMaroon {
+    color: #B03060 !important; 
+}
+.RifleGreen {
+    color: #414833 !important; 
+}
+.RobinEggBlue {
+    color: #00CCCC !important; 
+}
+.Rose {
+    color: #FF007F !important; 
+}
+.RoseBonbon {
+    color: #F9429E !important; 
+}
+.RoseEbony {
+    color: #674846 !important; 
+}
+.RoseGold {
+    color: #B76E79 !important; 
+}
+.RoseMadder {
+    color: #E32636 !important; 
+}
+.RosePink {
+    color: #FF66CC !important; 
+}
+.Rosequartz {
+    color: #AA98A9 !important; 
+}
+.RoseTaupe {
+    color: #905D5D !important; 
+}
+.RoseVale {
+    color: #AB4E52 !important; 
+}
+.Rosewood {
+    color: #65000B !important; 
+}
+.RossoCorsa {
+    color: #D40000 !important; 
+}
+.RosyBrown {
+    color: #BC8F8F !important; 
+}
+.RoyalAzure {
+    color: #0038A8 !important; 
+}
+.RoyalBlue {
+    color: #002366 !important; 
+}
+.RoyalBlueWeb {
+    color: #4169E1 !important; 
+}
+.RoyalFuchsia {
+    color: #CA2C92 !important; 
+}
+.RoyalPurple {
+    color: #7851A9 !important; 
+}
+.Ruby {
+    color: #E0115F !important; 
+}
+.Ruddy {
+    color: #FF0028 !important; 
+}
+.RuddyBrown {
+    color: #BB6528 !important; 
+}
+.RuddyPink {
+    color: #E18E96 !important; 
+}
+.Rufous {
+    color: #A81C07 !important; 
+}
+.Russet {
+    color: #80461B !important; 
+}
+.Rust {
+    color: #B7410E !important;
+}
+.SacramentoStateGreen {
+    color: #00563F !important; 
+}
+.SaddleBrown {
+    color: #8B4513 !important; 
+}
+.SafetyOrange .blazeOrange {
+    color: #FF6700 !important; 
+}
+.Saffron {
+    color: #F4C430 !important; 
+}
+.St.PatricksBlue {
+    color: #23297A !important; 
+}
+.Salmon {
+    color: #FF8C69 !important; 
+}
+.SalmonPink {
+    color: #FF91A4 !important; 
+}
+.Sand {
+    color: #C2B280 !important; 
+}
+.SandDune {
+    color: #967117 !important; 
+}
+.Sandstorm {
+    color: #ECD540 !important; 
+}
+.SandyBrown {
+    color: #F4A460 !important; 
+}
+.SandyTaupe {
+    color: #967117 !important; 
+}
+.Sangria {
+    color: #92000A !important; 
+}
+.SapGreen {
+    color: #507D2A !important; 
+}
+.Sapphire {
+    color: #082567 !important; 
+}
+.SatinSheenGold {
+    color: #CBA135 !important; 
+}
+.Scarlet {
+    color: #FF2400 !important; 
+}
+.SchoolBusYellow {
+    color: #FFD800 !important; 
+}
+.ScreaminGreen {
+    color: #76FF7A !important; 
+}
+.SeaGreen {
+    color: #2E8B57 !important; 
+}
+.SealBrown {
+    color: #321414 !important; 
+}
+.Seashell {
+    color: #FFF5EE !important; 
+}
+.SelectiveYellow {
+    color: #FFBA00 !important; 
+}
+.Sepia {
+    color: #704214 !important; 
+}
+.Shadow {
+    color: #8A795D !important; 
+}
+.ShamrockGreen {
+    color: #009E60 !important; 
+}
+.ShockingPink {
+    color: #FC0FC0 !important; 
+}
+.Sienna {
+    color: #882D17 !important; 
+}
+.Silver {
+    color: #C0C0C0 !important; 
+}
+.Sinopia {
+    color: #CB410B !important; 
+}
+.Skobeloff {
+    color: #007474 !important; 
+}
+.SkyBlue {
+    color: #87CEEB !important; 
+}
+.SkyMagenta {
+    color: #CF71AF !important; 
+}
+.SlateBlue {
+    color: #6A5ACD !important; 
+}
+.SlateGray , .SlateGrey {
+    color: #708090 !important; 
+}
+.Smalt, .DarkPowderBlue {
+    color: #003399 !important; 
+}
+.SmokeyTopaz {
+    color: #933D41 !important; 
+}
+.SmokyBlack {
+    color: #100C08 !important; 
+}
+.Snow {
+    color: #FFFAFA !important; 
+}
+.SpiroDiscoBall {
+    color: #0FC0FC !important; 
+}
+.SplashedWhite {
+    color: #FEFDFF !important; 
+}
+.SpringBud {
+    color: #A7FC00 !important; 
+}
+.SpringGreen {
+    color: #00FF7F !important; 
+}
+.SteelBlue {
+    color: #4682B4 !important; 
+}
+.StilDeGrainYellow {
+    color: #FADA5E !important; 
+}
+.Stizza {
+    color: #990000 !important; 
+}
+.Straw {
+    color: #E4D96F !important; 
+}
+.Sunglow {
+    color: #FFCC33 !important; 
+}
+.Sunset {
+    color: #FAD6A5 !important;
+}
+.Tan {
+    color: #D2B48C !important; 
+}
+.Tangelo {
+    color: #F94D00 !important; 
+}
+.Tangerine {
+    color: #F28500 !important; 
+}
+.TangerineYellow {
+    color: #FFCC00 !important; 
+}
+.Taupe {
+    color: #483C32 !important; 
+}
+.TaupeGray, .TaupeGrey {
+    color: #8B8589 !important; 
+}
+.TeaGreen {
+    color: #D0F0C0 !important; 
+}
+.TeaRoseOrange {
+    color: #F88379 !important; 
+}
+.TeaRose {
+    color: #F4C2C2 !important; 
+}
+.Teal {
+    color: #008080 !important; 
+}
+.TealBlue {
+    color: #367588 !important; 
+}
+.TealGreen {
+    color: #006D5B !important; 
+}
+.Tenne, .Tawny {
+    color: #CD5700 !important; 
+}
+.TerraCotta {
+    color: #E2725B !important; 
+}
+.Thistle {
+    color: #D8BFD8 !important; 
+}
+.ThulianPink {
+    color: #DE6FA1 !important; 
+}
+.TickleMePink {
+    color: #FC89AC !important; 
+}
+.TiffanyBlue {
+    color: #0ABAB5 !important; 
+}
+.TigersEye {
+    color: #E08D3C !important; 
+}
+.Timberwolf {
+    color: #DBD7D2 !important; 
+}
+.TitaniumYellow {
+    color: #EEE600 !important; 
+}
+.Tomato {
+    color: #FF6347 !important; 
+}
+.Toolbox {
+    color: #746CC0 !important; 
+}
+.TractorRed {
+    color: #FD0E35 !important; 
+}
+.TrolleyGrey , .TrolleyGray {
+    color: #808080 !important; 
+}
+.TropicalRainForest {
+    color: #00755E !important; 
+}
+.TrueBlue {
+    color: #0073CF !important; 
+}
+.TuftsBlue {
+    color: #417DC1 !important; 
+}
+.Tumbleweed {
+    color: #DEAA88 !important; 
+}
+.TurkishRose {
+    color: #B57281 !important; 
+}
+.Turquoise {
+    color: #30D5C8 !important; 
+}
+.TurquoiseBlue {
+    color: #00FFEF !important; 
+}
+.TurquoiseGreen {
+    color: #A0D6B4 !important; 
+}
+.TuscanRed {
+    color: #823535 !important; 
+}
+.TwilightLavender {
+    color: #8A496B !important; 
+}
+.TyrianPurple {
+    color: #66023C 
+}
+.UABlue {
+    color: #0033AA !important; 
+}
+.UARed {
+    color: #D9004C !important; 
+}
+.Ube {
+    color: #8878C3 !important; 
+}
+.UCLABlue {
+    color: #536895 !important; 
+}
+.UCLAGold {
+    color: #FFB300 !important; 
+}
+.UFOGreen {
+    color: #3CD070 !important; 
+}
+.Ultramarine {
+    color: #120A8F !important; 
+}
+.UltramarineBlue {
+    color: #4166F5 !important; 
+}
+.UltraPink {
+    color: #FF6FFF !important; 
+}
+.Umber {
+    color: #635147 !important; 
+}
+.UnitedNationsBlue {
+    color: #5B92E5 !important; 
+}
+.UniversityOfCaliforniaGold {
+    color: #B78727 !important; 
+}
+.UnmellowYellow {
+    color: #FFFF66 !important; 
+}
+.UPForestGreen {
+    color: #014421 !important; 
+}
+.UPMaroon {
+    color: #7B1113 !important; 
+}
+.UpsdellRed {
+    color: #AE2029 !important; 
+}
+.Urobilin {
+    color: #E1AD21 !important; 
+}
+.USCCardinal {
+    color: #990000 !important; 
+}
+.USCGold {
+    color: #FFCC00 !important; 
+}
+.UtahCrimson {
+    color: #D3003F !important;
+}
+.Vanilla {
+    color: #F3E5AB !important; 
+}
+.VegasGold {
+    color: #C5B358 !important; 
+}
+.VenetianRed {
+    color: #C80815 !important; 
+}
+.Verdigris {
+    color: #43B3AE !important; 
+}
+.Vermilion {
+    color: #E34234 !important; 
+}
+.Veronica {
+    color: #A020F0 !important; 
+}
+.Violet {
+    color: #8F00FF !important; 
+}
+.VioletColorWheel {
+    color: #7F00FF !important; 
+}
+.VioletRYB {
+    color: #8601AF !important; 
+}
+.VioletWeb {
+    color: #EE82EE !important; 
+}
+.Viridian {
+    color: #40826D !important; 
+}
+.VividAuburn {
+    color: #922724 !important; 
+}
+.VividBurgundy {
+    color: #9F1D35 !important; 
+}
+.VividCerise {
+    color: #DA1D81 !important; 
+}
+.VividTangerine {
+    color: #FFA089 !important; 
+}
+.VividViolet {
+    color: #9F00FF !important;
+}
+.WarmBlack {
+    color: #004242 !important; 
+}
+.Wenge {
+    color: #645452 !important; 
+}
+.Wheat {
+    color: #F5DEB3 !important; 
+}
+.White {
+    color: #FFFFFF !important; 
+}
+.WhiteSmoke {
+    color: #F5F5F5 !important; 
+}
+.WildBlueYonder {
+    color: #A2ADD0 !important; 
+}
+.WildStrawberry {
+    color: #FF43A4 !important; 
+}
+.WildWatermelon {
+    color: #FC6C85 !important; 
+}
+.Wine {
+    color: #722F37 !important; 
+}
+.Wisteria {
+    color: #C9A0DC !important;
+}
+.Xanadu {
+    color: #738678 !important;
+}
+.YaleBlue {
+    color: #0F4D92 !important; 
+}
+.Yellow {
+    color: #FFFF00 !important; 
+}
+.YellowMunsell {
+    color: #EFCC00 !important; 
+}
+.YellowNCS {
+    color: #FFD300 !important; 
+}
+.YellowProcess {
+    color: #FFEF00 !important; 
+}
+.YellowRYB {
+    color: #FEFE33 !important; 
+}
+.Yellow-Green {
+    color: #9ACD32 !important;
+}
+.Zaffre  {
+    color: #0014A8 !important;
+ }
+.ZinnwalditeBrown  {
+    color: #2C1608 !important;
+ }
